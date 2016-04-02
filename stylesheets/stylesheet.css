@@ -164,6 +164,15 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
+}
+#view-resume span {
+  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+}
+#view-resume {
+  margin-right: 0;
+margin-left: 5px;
+}
+
 
 code, pre {
   margin-bottom: 30px;

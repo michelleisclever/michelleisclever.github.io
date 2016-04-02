@@ -164,11 +164,17 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
-}
 #view-resume span {
-  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+  background: transparent url(../images/adobe.gif) 12px 50% no-repeat;
 }
 #view-resume {
+  margin-right: 0;
+margin-left: 5px;
+}
+#view-sc span {
+  background: transparent url(../images/skillcrush.png) 12px 50% no-repeat;
+}
+#view-sc {
   margin-right: 0;
 margin-left: 5px;
 }

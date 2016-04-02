@@ -18,7 +18,7 @@
       <div class="inner">
 
         <header>
-          <h1>The Portfolio of Michelle McManus</h1>
+          <h1>Welcom to the misadventures of the clever</h1>
           <h2>Here you will find a collection of interesting things, a.k.a. my portfolio</h2>
         </header>
 
@@ -32,7 +32,7 @@
           <h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Summary.</h3>
 
-<p>Storyteller. Survivor. Martial Artist. Hiker. Wannabe Guitarist. Ruby on Rails student. I'm told I change lives but this is probably what you want to read:</p>e
+<p>Storyteller. Survivor. Martial Artist. Hiker. Wannabe Guitarist. Ruby on Rails student. I'm told I change lives but this is probably what you want to read:</p>
 
 <p>I've spent the last 16+ years integrating and managing people, process and technology always with one foot in marketing and one foot in IT. </p>
 
@@ -42,15 +42,11 @@
                 <!--automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here <a href="https://guides.github.com/features/mastering-markdown/">using GitHub Flavored Markdown</a>, select a template crafted by a designer, and publish. After your page is generated, you can check out the new <code>gh-pages</code> branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.</p>-->
 
 <h3>
-<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Learning to code</h3>
+<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Designer Templates</h3>
 
-<p>After a very traumatic layoff from AIG, I found myself aggressively seeking a new job. I had been out of practice for 16 years since prior to working at AIG, I stayed with a company for nearly 11 years as we grew the company from a regional provider of transportation and warehousing to a global logistics entity. I started my career there as a temp and had worked my way up the ladder and did quite well, gaining valuable experience. My next adventure came to me by way of referral so I was really not quite prepared to find myself suddenly without a paycheck and with a child in college and a child in high school... my anxiety level went through the roof. And while I actively started working all the angles, the contacts, listening to my coach and networking, I felt I needed to do something else which led me to plan b. Coding.</p>
-            <p>Forutnately, I discovered <a href="http://www.skillcrush.com">SkillCrush</a>. There were so many other options but with the uncertainty of landing work soon, I had to take the most economical route. And so it goes that I enrolled in the Ruby on Rails blueprint.</p>
-            
-            <h3>SkillCrush 104</h3>
-            <p>My final 104 project was a weather app using the Rubygem Barometer. Check it out <a href="https://github.com/michelleisclever/weather-app">here</a>. The documentation left a lot to be desired and if you have a weather script built with Barometer you would like to share with me so I can learn, please connect with me on <a href="http://www.linkedin.com/in/mmcmanus">LinkedIn</a> and share.</p>
+<p>We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.</p>
 
-<!--<h3>
+<h3>
 <a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Creating pages manually</h3>
 
 <p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
@@ -63,11 +59,11 @@
 <h3>
 <a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
 
-<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>-->
+<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
         </section>
 
         <footer>
-          Get in touch on <a href="http://www.linkedin.com/in/mmcmanus">LinkedIn</a>.<!--This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>-->.
+          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
         </footer>
 
         
